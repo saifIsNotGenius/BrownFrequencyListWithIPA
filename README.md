@@ -15,7 +15,9 @@ The Brown Corpus is a widely-used collection of American English text samples fr
 ## 📁 File Structure
 
 brown-pronunciation/
+
 ├── brown_frequency_with_pronunciation.csv
+
 ├── README.md
 
 - `brown_frequency_with_pronunciation.csv`: The main data file containing:  
